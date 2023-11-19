@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/carmelacuaranta/configData
+          uri: https://github.com/VeronicaAlbuquerque/Spring-Config-Server
           default-label: main
           force-pull: true
           search-paths: config-data
